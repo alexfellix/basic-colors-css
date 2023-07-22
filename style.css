@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+}
+.cor1 {
+  background-color: #ff0000;
+  padding: 10px;
+}
+.cor2 {
+  background-color: #ffc0cb;
+  padding: 10px;
+}
+.cor3 {
+  background-color: #0000ff; 
+  padding: 10px;
+}
+.cor4 {
+  background-color: #000000;
+  color: #ffff;
+  padding: 10px ;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
